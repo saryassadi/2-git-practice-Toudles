@@ -13,4 +13,4 @@ I found the article interesting because I've recently had a profound interest in
 ---
 
 #### Sarya's comment
-Waw that's so interesting! I didn't know about this, pretty worrying... Thank you Andrew!
+Waw that's so interesting! I didn't know about this, pretty worrying... Thank you Andrew, I'll keep that in mind.
