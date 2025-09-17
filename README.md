@@ -12,5 +12,9 @@ I found the article interesting because I've recently had a profound interest in
 
 ---
 
-#### Sarya's comment
-Waw that's so interesting! I didn't know about this, pretty worrying... Thank you Andrew, I'll keep that in mind.
+## Sarya’s comment
+Wow that’s so interesting! I didn’t know about this, pretty worrying... Thank you Andrew, I’ll keep that in mind.
+
+## Milan’s Review of Article
+9/16/25: One thing I found interesting was how the "EternalBlue" vulnerability was initially created by the US National Security Agency (NSA). It’s fascinating to think that this Agency develops tools that...
+
